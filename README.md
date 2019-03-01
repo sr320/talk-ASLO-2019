@@ -18,16 +18,8 @@ ABSTRACT: 	The function of DNA methylation in species such as bivalves where the
 
 ---
 
-### Excerpt from Lab Notebook Post
+# Excerpt from Notebook Post for New Lab Members 
 
----
-layout: post
-title: Getting into DNA Methylation
-date: '2018-08-23'
----
-
-
-I have to share some information with several new folks, and there are likely old folks that should give this a refresh… thus I am posting it here. 
 
 ## What to read
 A good place to start in term of biology are a few reviews including
