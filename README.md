@@ -18,7 +18,7 @@ ABSTRACT: 	The function of DNA methylation in species such as bivalves where the
 
 ---
 
-# Excerpt from Notebook Post for New Lab Members 
+# _Excerpt from Notebook Post for New Lab Members_ 
 
 
 ## What to read
